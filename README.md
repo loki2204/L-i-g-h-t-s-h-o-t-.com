@@ -1,2 +1,2 @@
-# L-i-g-h-t-s-h-o-t-.com
-Make a Scary Jumpscare Which Scares Anyone Which Looks like FNAF
+Lightshot.scary
+This is a Ordenary Website
